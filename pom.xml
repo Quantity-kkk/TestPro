@@ -178,11 +178,11 @@
         <!--</dependency>-->
 
         <!-- https://mvnrepository.com/artifact/com.liferay.portal/portal-client -->
-        <dependency>
-            <groupId>com.liferay.portal</groupId>
-            <artifactId>portal-client</artifactId>
+<!--        <dependency>-->
+<!--            <groupId>com.liferay.portal</groupId>-->
+<!--            <artifactId>portal-client</artifactId>-->
 <!--            <version>7.0.0-local</version>-->
-        </dependency>
+<!--        </dependency>-->
 
 
         <!-- https://mvnrepository.com/artifact/org.apache.axis/axis -->
@@ -338,11 +338,12 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.gjt.jclasslib/jclasslib-browser -->
-        <dependency>
-            <groupId>org.gjt.jclasslib</groupId>
-            <artifactId>jclasslib-library</artifactId>
+<!--        该jar已经无法获取-->
+<!--        <dependency>-->
+<!--            <groupId>org.gjt.jclasslib</groupId>-->
+<!--            <artifactId>jclasslib-library</artifactId>-->
 <!--            <version>5.3</version>-->
-        </dependency>
+<!--        </dependency>-->
 
 
 
