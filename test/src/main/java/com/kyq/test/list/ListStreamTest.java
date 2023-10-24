@@ -34,6 +34,7 @@ public class ListStreamTest {
                 .filter(distinctByKey(b -> b.get("gantryPassSerial")))
                 .sorted(Comparator.comparingInt(o -> Integer.valueOf((String) o.get("gantryPassSerial"))))
                 .collect(Collectors.toList());
+        System.out.println("1");
     }
 
     private static List<Map> generateTradeFlows() {
