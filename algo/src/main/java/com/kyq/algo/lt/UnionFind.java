@@ -9,8 +9,6 @@ import java.util.Arrays;
 /**
  * Description： com.kyq.algo.lt
  * 并查集算法实现；并查集适用于分组问题；例：亲戚关系查找；
- * CopyRight:  © 2015 CSTC. All rights reserved.
- * Company: cstc
  *
  * @author kyq1024
  * @version 1.0

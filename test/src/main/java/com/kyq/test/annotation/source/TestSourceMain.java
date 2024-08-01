@@ -3,8 +3,8 @@ package com.kyq.test.annotation.source;
 
 /**
  * Description:
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
+\\\". All rights reserved.
+
  *
  * @version 1.0
  * @author: kyq1024

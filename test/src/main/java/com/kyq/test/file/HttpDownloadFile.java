@@ -9,8 +9,8 @@ import java.io.InputStream;
 
 /**
  * Description: 采用http下载文件
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
+\\\". All rights reserved.
+
  *
  * @version 1.0
  * @author: kyq1024

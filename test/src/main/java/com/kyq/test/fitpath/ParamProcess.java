@@ -10,8 +10,8 @@ import java.util.List;
 
 /**
  * Description:
- * Copyright: © 2019 CSNT. All rights reserved.
- * Company:CSNT
+ * Copyright: © 2019
+
  *
  * @author kyq
  * @version 1.0

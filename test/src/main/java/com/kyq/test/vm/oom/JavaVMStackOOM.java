@@ -3,8 +3,6 @@ package com.kyq.test.vm.oom;
 /**
  * Description: -Xss2M
  * 创建线程导致内存溢出。
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *
  * @version 1.0
  * @author: kyq1024

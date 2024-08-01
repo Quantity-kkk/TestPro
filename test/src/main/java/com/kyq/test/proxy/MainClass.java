@@ -4,8 +4,6 @@ import java.lang.reflect.Proxy;
 
 /**
  * Description:
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *
  * @version 1.0
  * @author: kyq1024

@@ -2,8 +2,8 @@ package com.kyq.test.common;
 
 /**
  * Description： com.kyq.test.common
- * CopyRight:  © 2015 CSTC. All rights reserved.
- * Company: cstc
+\\\"
+
  *
  * @author kyq1024
  * @version 1.0

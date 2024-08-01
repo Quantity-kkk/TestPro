@@ -2,8 +2,6 @@ package com.kyq.test.vm.classinfo;
 
 /**
  * Description:演示异常表实现异常捕获。
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *
  * @version 1.0
  * @author: kyq1024

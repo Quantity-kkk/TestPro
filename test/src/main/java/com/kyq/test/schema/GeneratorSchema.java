@@ -436,7 +436,7 @@ public class GeneratorSchema {
 
         tableKv.put("root", curentkv);
         curentkv.set("$schema", "http://json-schema.org/draft-04/schema#")
-                .set("id", "http://csnt.com/" + reqFileName + ".json")
+                .set("id", "http://dsdas.com/" + reqFileName + ".json")
                 .set("type", "object")
                 .set("properties", Okv.create())
                 .set("path", "/properties/")

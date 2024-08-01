@@ -18,8 +18,6 @@ import java.util.Map;
 
 /**
  * Description: 使用poi api对excel进行处理。生成对应的文档
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *  一页A4打印单元格，有59行，10列
  * @version 1.0
  * @author: kyq1024

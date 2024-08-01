@@ -17,8 +17,6 @@ import java.util.Map;
 
 /**
  * Description:  HttpConnectionHelper 用于Http测试的帮助类。
- * Copyright:   2016 Aardwolf Studio. All rights reserved.
- * Company:CSNT中海网络科技股份有限公司
  *
  * @author kuangyongqiang
  * @version 1.0

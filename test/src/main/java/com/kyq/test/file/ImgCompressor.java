@@ -6,8 +6,8 @@ import java.io.IOException;
 
 /**
  * Description:
- * Copyright: ? 2017 CSNT. All rights reserved.
- * Company:CSTC
+ * Copyright: ? 2017
+
  *
  * @version 1.0
  * @author: kyq1024

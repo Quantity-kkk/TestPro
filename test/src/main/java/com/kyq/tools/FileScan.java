@@ -9,8 +9,6 @@ import java.util.List;
 
 /**
  * Description： com.kyq.tools
- * CopyRight:  © 2015 CSTC. All rights reserved.
- * Company: cstc
  *
  * @author kyq1024
  * @version 1.0

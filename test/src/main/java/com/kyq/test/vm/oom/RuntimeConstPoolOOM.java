@@ -8,8 +8,6 @@ import java.util.List;
  * 以上两个参数在jdk1.6中有效
  * -XX:MaxMetaspaceSize=2m jdk1.8有效。元空间
  * jdk1.7,1.8之后，字符串常量池已经被移到堆中实现。
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *
  * @version 1.0
  * @author: kyq1024

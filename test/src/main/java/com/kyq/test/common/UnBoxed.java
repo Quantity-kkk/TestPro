@@ -5,8 +5,8 @@ import java.util.Map;
 
 /**
  * Description: 探索三目运算符的自动拆箱装箱
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
+\\\". All rights reserved.
+
  *
  * @version 1.0
  * @author: kyq1024

@@ -17,8 +17,6 @@ package java.kyq;
  * 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
  * 	at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:495)
  * Error: A JNI error has occurred, please check your installation and try again
- * Copyright: © 2018 CSNT. All rights reserved.
- * Company: CSTC
  *
  * @author kyq1024
  * @version 1.0

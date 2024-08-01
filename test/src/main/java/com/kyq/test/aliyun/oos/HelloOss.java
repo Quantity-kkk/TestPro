@@ -18,8 +18,8 @@ import java.util.UUID;
  *             <artifactId>aliyun-sdk-oss</artifactId>
  *             <version>3.5.0</version>
  *         </dependency>
- * Copyright: © 2019 CSNT. All rights reserved.
- * Company:CSNT
+ * Copyright: © 2019
+
  *
  * @author kyq
  * @version 1.0

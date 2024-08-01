@@ -3,8 +3,6 @@ package com.kyq.test.vm.oom;
 /**
  * Description: -Xss128k 缩小该参数，stack length变小。
  *虚拟机栈和本地方法栈OOM测试，加大的深度
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *
  * @version 1.0
  * @author: kyq1024

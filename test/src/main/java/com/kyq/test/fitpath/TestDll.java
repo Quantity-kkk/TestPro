@@ -9,8 +9,8 @@ import java.io.IOException;
 import java.util.List;
 /**
  * Description:
- * Copyright: © 2019 CSNT. All rights reserved.
- * Company:CSNT
+ * Copyright: © 2019
+
  *
  * @author kyq
  * @version 1.0
@@ -20,8 +20,8 @@ import java.util.List;
 
 /**
  * Description:
- * Copyright: © 2019 CSNT. All rights reserved.
- * Company:CSNT
+ * Copyright: © 2019
+
  *
  * @author magic_z
  * @date 2019/7/3/003 10:21

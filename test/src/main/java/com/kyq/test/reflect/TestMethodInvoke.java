@@ -5,8 +5,6 @@ import java.lang.reflect.Method;
 
 /**
  * Description: 该类测试的是反射调用的inflation机制，前15次调用使用native方式，后面使用java方式调用。
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *
  * @version 1.0
  * @author: kyq1024

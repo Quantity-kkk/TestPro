@@ -8,6 +8,7 @@
     <modules>
         <module>fee_down</module>
         <module>test</module>
+        <module>spring-jdbc-test</module>
     </modules>
 
     <properties>
@@ -389,7 +390,11 @@
             <artifactId>jna-platform</artifactId>
             <version>5.3.1</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.jasypt</groupId>
+            <artifactId>jasypt</artifactId>
+            <version>1.9.3</version>
+        </dependency>
     </dependencies>
 
     <repositories>

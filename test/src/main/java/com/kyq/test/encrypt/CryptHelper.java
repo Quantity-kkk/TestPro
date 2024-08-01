@@ -12,8 +12,6 @@ import java.util.Date;
 
 /**
  * Description:  认证方法帮助类
- * Copyright:   2016 Aardwolf Studio. All rights reserved.
- * Company:CSNT中海网络科技股份有限公司
  *
  * @author kuangyongqiang
  * @version 1.0

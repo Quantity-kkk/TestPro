@@ -7,8 +7,6 @@ import java.lang.reflect.Field;
 /**
  * Description: -Xmx20M -XX:MaxDirectMemorySize=10M
  * 使用unsafe分配本机内存
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *
  * @version 1.0
  * @author: kyq1024

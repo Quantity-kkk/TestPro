@@ -10,8 +10,6 @@ import java.lang.reflect.Method;
  * Description: -XX:PermSize=10M -XX:MaxPermSize=10M  这两个参数jdk1.8已经失效
  * -XX:MetaspaceSize=5M -XX:MaxMetaspaceSize=7M
  * 使用运行时创建类的方式将方法区填满
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *
  * @version 1.0
  * @author: kyq1024

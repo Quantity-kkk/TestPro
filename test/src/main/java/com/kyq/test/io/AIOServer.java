@@ -14,8 +14,8 @@ import java.util.concurrent.*;
 
 /**
  * Description:
- * Copyright: © 2018 CSNT. All rights reserved.
- * Company: CSTC
+ * Copyright: © 2018
+
  *
  * @author kyq1024
  * @version 1.0

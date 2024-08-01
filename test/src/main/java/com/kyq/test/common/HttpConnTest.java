@@ -3,8 +3,6 @@ package com.kyq.test.common;
 
 /**
  * Description:  CiimpDAOKeyAttribute
- * Copyright:   2016 Aardwolf Studio. All rights reserved.
- * Company:CSNT中海网络科技股份有限公司
  *
  * @author kuangyongqiang
  * @version 1.0

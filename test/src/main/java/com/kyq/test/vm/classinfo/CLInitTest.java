@@ -2,8 +2,6 @@ package com.kyq.test.vm.classinfo;
 
 /**
  * Description: 演示静态语句块和静态变量在clinit方法中的顺序
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
  *
  * @version 1.0
  * @author: kyq1024

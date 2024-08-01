@@ -8,8 +8,8 @@ import java.lang.reflect.InvocationTargetException;
 
 /**
  * Description: 该例子用于论证几种创建Java对象的方法。
- * Copyright: © 2018 CSNT. All rights reserved.
- * Company: CSTC
+ * Copyright: © 2018
+
  *
  * @author kyq1024
  * @version 1.0

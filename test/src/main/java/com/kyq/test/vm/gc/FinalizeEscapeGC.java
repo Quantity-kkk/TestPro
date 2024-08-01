@@ -5,8 +5,7 @@ package com.kyq.test.vm.gc;
  * 1、对象可以在被GC时自我拯救
  * 2、这种自救的机会只有一次，因为一个对象的finalize()方法最多只能被系统自动调用一次。
  * 建议：忘掉java还有finalize这么一个方法吧~~~
- * Copyright: © 2017 CSNT. All rights reserved.
- * Company:CSTC
+
  *
  * @version 1.0
  * @author: kyq1024
